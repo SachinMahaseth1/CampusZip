@@ -1,3 +1,4 @@
+
 // Array to hold cart items
 let cart = [];
 
